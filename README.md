@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasin Ali Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FRONTEND DEVELOPER in Angular Framework from India</h3>
 
 - 🌱 I’m currently learning **React**
 
